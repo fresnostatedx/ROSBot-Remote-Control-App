@@ -21,10 +21,11 @@
 
 ### now this should work
 `roscd py_rc`
+`chmod +z rcontrol.py`
 
 
 ### run
-`rosrun py_rps rcontrol.py`
+`rosrun py_rc rcontrol.py`
 
 
 DONE 😁
