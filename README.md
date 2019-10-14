@@ -3,27 +3,27 @@
 `git clone ...`
 
 
-then rename
+### then rename
 `mv ROSBot-Remote-Control-App/ workspace_rc/`
 
 
-build
+### build
 `cd workspace_rc`
 
 `catkin_make`
 
 
-add source
+### add source
 `cd ..`
 
 `. workspace_rc/devel/setup.bash`
 
 
-now this should work
+### now this should work
 `roscd py_rc`
 
 
-run
+### run
 `rosrun py_rps rcontrol.py`
 
 
