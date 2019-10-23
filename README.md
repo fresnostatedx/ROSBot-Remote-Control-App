@@ -1,6 +1,6 @@
 # ROSBot-Remote-Control-App
 
-`git clone ...`
+`git clone https://github.com/fresnostatedx/ROSBot-Remote-Control-App.git`
 
 
 ### then rename
