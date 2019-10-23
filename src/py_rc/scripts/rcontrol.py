@@ -1,4 +1,14 @@
 #!/usr/bin/env python
+
+"""
+   Project Name: Bulldog Bot - Remote Control
+   By: Fresno State DX
+   Email: dx@mail.fresnostate.edu
+   Project Site: https://medium.com/fresnostatedx/bulldog-autonomous-bot-2cf4badf3c1
+   Last Updated: 10/21/2019
+   Copyright 2019 Fresno State / Digital Transformation
+"""
+
 # noinspection PyUnresolvedReferences
 import rospy
 import ast
